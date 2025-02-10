@@ -1,7 +1,8 @@
 # 👋 ¡Hola! Soy Aldo Tolentino Domingo
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ebcc8950-8c69-48bf-99cb-f59c7b91e421">
+  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="400">
 </p>
+
 
 <p align="center">
   <strong>Sobre mí 🚀</strong><br>
@@ -53,6 +54,14 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </p>
+
+---
+## 📊 Estadísticas de uso de lenguajes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldotd12&layout=compact&langs_count=6&theme=radical" />
+</p>
+
 
 ---
 
