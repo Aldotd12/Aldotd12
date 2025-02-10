@@ -62,6 +62,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldotd12&layout=compact&langs_count=6&theme=radical" />
 </p>
 
+---
+## 🚀 Mis Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aldotd12&show_icons=true&hide=issues&hide_rank=false&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aldotd12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</p>
 
 ---
 
