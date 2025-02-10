@@ -56,21 +56,19 @@
 </p>
 
 ---
-## 📊 Estadísticas de uso de lenguajes
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldotd12&layout=compact&langs_count=6&theme=radical" />
-</p>
-
----
 ## 🚀 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aldotd12&show_icons=true&hide=issues&hide_rank=false&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aldotd12&show_icons=true&hide=issues&hide_rank=false&theme=gruvbox&border_radius=10&count_private=true" alt="GitHub Stats" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aldotd12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Aldotd12&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="Streak Stats" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldotd12&langs_count=10&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" width="400" />
 </p>
 
 ---
