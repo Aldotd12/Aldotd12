@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldotd12&langs_count=10&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldotd12&langs_count=10&layout=pie&theme=tokyonight&border_radius=10" alt="Top Languages" width="400" />
 </p>
 
 
