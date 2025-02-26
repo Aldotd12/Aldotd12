@@ -74,9 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldotd12&langs_count=10&layout=pie&theme=tokyonight&border_radius=10" alt="Top Languages" width="400" />
 </p>
 
-
 ---
-
 ## 📫 ¡Contáctame!
 
 <p align="center">
@@ -96,8 +94,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
 </p>
-
----
 
 <p align="center">
   <strong>¡Gracias por visitar mi perfil! 🚀🔥</strong>
