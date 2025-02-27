@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Sobre mí 🚀</strong><br>
-  🎂 Tengo <b>24 años</b>.<br>
+  🎂 Tengo <b>23 años</b>.<br>
   ⚽ Me encanta el <b>fútbol</b> y soy fan del <b>FC Barcelona</b>.<br>
   🎮 Juego <b>Call of Duty Mobile</b> en mis ratos libres.<br>
   💻 Me apasiona la <b>programación</b> y el desarrollo web/móvil.<br>
