@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Aldo Tolentino Domingo, me alegro que visites mi perfil!
+# 👋 ¡Hola! Soy Aldo Tolentino Domingo.
 <p align="center">
   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="400">
 </p>
