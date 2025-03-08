@@ -75,6 +75,9 @@
        alt="Top Languages" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aldotd12&count_bg=%237A7ADB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Contador de visitas">
+</p>
 
 
 ---
