@@ -6,7 +6,7 @@ Mi nombre es Aldo Tolentino Domingo, soy estudiante de la ingeniería<br>en desa
 
 [![Facebook](https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aldotolentinodomingo)
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aldotd12)
-[![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-tolentino-domingo)
+[![LinkedIn](https://img.shields.io/badge/%20-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-tolentino-domingo)
 [![TikTok](https://img.shields.io/badge/-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@toled0m12)
 [![Email](https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white)](mailto:tolentinodomingodiego@gmail.com)
 
