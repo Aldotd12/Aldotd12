@@ -1,5 +1,5 @@
-# 💫 About Me:
-Mi nombre es Aldo Tolentino Domingo, soy estudiante de la ingeniería<br>en desarrollo y gestion de software, tengo 24 años, soy una persona que<br>siempre busca la manera de solucionar cosas, y facilitar el trabajo<br>cotidiano
+# Bienvenido a mi perfil:
+Mi nombre es Aldo Tolentino Domingo, soy estudiante de la ingeniería<br>en desarrollo y gestion de software, tengo 24 años, soy una persona que<br>siempre busca la manera de solucionar cosas, y facilitar el trabajo cotidiano
 
 
 ## 🌐 Socials:
