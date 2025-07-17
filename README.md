@@ -8,11 +8,30 @@ siempre busca la manera de solucionar cosas y facilitar el trabajo cotidiano.
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/%20-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aldotolentinodomingo)
-[![Instagram](https://img.shields.io/badge/%20-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aldotd12)
-[![LinkedIn](https://img.shields.io/badge/%20-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-tolentino-domingo)
-[![TikTok](https://img.shields.io/badge/%20-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@toled0m12)
-[![Email](https://img.shields.io/badge/%20-D14836?logo=gmail&logoColor=white)](mailto:tolentinodomingodiego@gmail.com)
+<p align="left">
+  <a href="https://facebook.com/aldotolentinodomingo" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook.png" width="30" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/aldotd12" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="30" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aldo-tolentino-domingo" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://tiktok.com/@toled0m12" target="_blank">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png" width="30" alt="TikTok"/>
+  </a>
+  &nbsp;
+  <a href="mailto:tolentinodomingodiego@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Gmail"/>
+  </a>
+</p>
+
+
+
 
 ---
 
