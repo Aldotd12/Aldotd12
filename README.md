@@ -120,16 +120,17 @@ siempre busca la manera de solucionar cosas y facilitar el trabajo cotidiano.
 
 ---
 
----
-
 <h2 align="center">🧑‍💼 Experiencia Profesional</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coparmex%20Hidalgo-Web%20Developer-blue?style=for-the-badge" alt="Coparmex Hidalgo" />
+  <img src="https://img.shields.io/badge/Municipio%20de%20Honey-Backend%20API-orange?style=for-the-badge" alt="Municipio de Honey" />
+</p>
 
 <ul style="max-width: 700px; margin: auto; font-size: 16px;">
   <li><strong>Coparmex Hidalgo</strong> — Desarrollo completo de la página web empresarial como parte de mi estadía profesional de Técnico Superior Universitario (T.S.U.) en Desarrollo de Software.</li>
   <li><strong>Municipio de Honey, Puebla</strong> — Desarrollador back-end de la API del portal de transparencia oficial del municipio.</li>
 </ul>
-
----
 
 ---
 
