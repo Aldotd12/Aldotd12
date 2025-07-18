@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bienvenido a mi perfil</h1>
+<h1 align="center">Bienvenido a mi perfil</h1>
 
 <p align="center" style="font-size:16px; max-width:600px; margin:auto;">
 Mi nombre es <strong>Aldo Tolentino Domingo</strong>, soy estudiante de la ingeniería  
