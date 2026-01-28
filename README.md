@@ -146,9 +146,3 @@ siempre busca la manera de solucionar cosas y facilitar el trabajo cotidiano.
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aldotd12&theme=highcontrast&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldotd12&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aldotd12&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
