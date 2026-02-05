@@ -142,7 +142,17 @@ siempre busca la manera de solucionar cosas y facilitar el trabajo cotidiano.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aldotd12&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aldotd12&theme=highcontrast&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldotd12&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/Aldotd12/Aldotd12/output/github-contribution-grid-snake.svg" /><br/><br/>
+
+  <img src="https://github-readme-stats-steel-phi-26.vercel.app/api?username=Aldotd12&theme=highcontrast" /><br/>
+
+  <img src="https://streak-stats.demolab.com?user=Aldotd12&theme=highcontrast" /><br/>
+
+  <img src="https://github-readme-stats-steel-phi-26.vercel.app/api/top-langs/?username=Aldotd12&layout=compact&theme=highcontrast" />
+</p>
+<br>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aldotd12&theme=matrix&no-frame=true&margin-w=10" />
 </p>
