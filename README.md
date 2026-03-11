@@ -143,8 +143,6 @@ siempre busca la manera de solucionar cosas y facilitar el trabajo cotidiano.
 
 <p align="center">
   <img src="https://github-readme-stats-steel-phi-26.vercel.app/api?username=Aldotd12&theme=highcontrast" /><br/>
-
   <img src="https://streak-stats.demolab.com?user=Aldotd12&theme=highcontrast" /><br/>
-
   <img src="https://github-readme-stats-steel-phi-26.vercel.app/api/top-langs/?username=Aldotd12&layout=compact&theme=highcontrast" />
 </p>
